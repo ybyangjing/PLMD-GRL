@@ -9,7 +9,7 @@ This is the official PyTorch code for the paper:
 > **Note: The complete code will be uploaded after the paper is accepted.** Currently, this repository contains the core algorithmic implementation.
 
 <div align="center">
-  <img src="framework.png" width="100%" alt="PLMD-GRL Framework"/>
+  <img src="img/Fig1.png" width="100%" alt="PLMD-GRL Framework"/>
 </div>
 
 ## Requirements
