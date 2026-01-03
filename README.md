@@ -6,7 +6,7 @@ This is the official PyTorch code for the paper:
 
 **Keli Liu, Jing Yang\*, Yuling Chen, Xiaoli Ruan, Han Zhao, Shaobo Li and Minyi Guo**
 
-> **Note: The complete code will be uploaded after the paper is accepted. If you have any questions you can contact us : gs.klliu23@gzu.edu.cn or jyang23@gzu.edu.cn** Currently, this repository contains the core algorithmic implementation.
+> **Note: The complete code will be uploaded after the paper is accepted.** Currently, this repository contains the core algorithmic implementation.
 
 <div align="center">
   <img src="framework.png" width="100%" alt="PLMD-GRL Framework"/>
