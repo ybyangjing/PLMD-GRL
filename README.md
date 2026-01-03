@@ -25,4 +25,11 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 # Install dependencies
 pip install torch-geometric numpy networkx python-igraph leidenalg matplotlib
 
+
+
+
+
+
+
+
 > **Note: The complete code will be uploaded after the paper is accepted.** Currently, this repository contains the core algorithmic implementation.
